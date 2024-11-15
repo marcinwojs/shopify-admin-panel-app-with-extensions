@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#filter > option:nth-child(1) {
+    font-weight: 900;
+}
+
+
+#filter {
+    padding-left: 10px
+}
